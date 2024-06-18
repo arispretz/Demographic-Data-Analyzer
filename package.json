@@ -1,0 +1,16 @@
+{
+  "name": "python-project",
+  "version": "1.0.0",
+  "description": "A simple Python project running on Glitch.",
+  "scripts": {
+    "start": "pip3 install -r requirements.txt && python3 main.py"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/ari-demographic-data-analyzer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "glitch"
+  ]
+}
